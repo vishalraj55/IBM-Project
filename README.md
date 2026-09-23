@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction
+# Used Car Price Prediction
 
 A full-stack machine learning web app that predicts used-car selling prices.
 
